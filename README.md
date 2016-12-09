@@ -16,9 +16,9 @@ QUICK START :
 
 Run the following commands.
 
-git clone https://github.com/Ashritha28/PokemonCrawler.git
-cd PokemonCrawler
-scrapy crawl PokeSpider
+1. git clone https://github.com/Ashritha28/PokemonCrawler.git
+2. cd PokemonCrawler
+3. scrapy crawl PokeSpider
 
 NOTE :
 
